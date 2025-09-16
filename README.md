@@ -1,4 +1,4 @@
-#Ana Rita Ribeiro | Data Science & Analytics Portfolio
+Ana Rita Ribeiro | Data Science & Analytics Portfolio
 
 Welcome! I'm Ana Rita, a PhD researcher turned data-driven problem solver, with a passion for using **data, technology, and scientific thinking to create real-world impact**.
 
