@@ -12,7 +12,7 @@ This GitHub page is a collection of projects I’ve developed throughout my prof
 - **Analytical Thinker**: Experienced in extracting insights from complex datasets and transforming them into actionable solutions.  
 - **Tools & Technologies**: Python (Pandas, Scikit-Learn, Matplotlib), SQL, Power BI, Tableau, Qlik, Azure (basics), GenAI (LLMs) (basics 2x), ETL & EDA processes.  
 - **Currently Learning**: Applied machine learning, model deployment, and generative AI integration in business use cases.  
-- **Soft Skills**: Critical thinking, adaptability, strategic mindset, project management, and communication across multidisciplinary teams.
+- **Soft Skills**: Critical thinking, adaptability, strategic mindset, project management, teamwork and communication across multidisciplinary teams.
 
 ---
 
