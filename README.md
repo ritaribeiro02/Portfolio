@@ -1,6 +1,6 @@
 Ana Rita Ribeiro | Data Science & Analytics Portfolio
 
-Welcome! I'm Ana Rita, a PhD researcher turned data-driven problem solver, with a passion for using **data, technology, and scientific thinking to create real-world impact**.
+Welcome! I'm Ana Rita, a data analytical researcher with PhD background on biomedical engineering (on thesis writing, wish me luck!) that want to turn data-driven problem solver, with a passion for using **data, technology, and scientific thinking to create real-world impact**. Sorry if this portfolio disappoints you but I am starting my learning journey on this field, so please be kind! We all started the same way :)
 
 This GitHub page is a collection of projects I’ve developed throughout my professional and academic journey, as well as during recent specialized training in **Data Science and Business Analytics**. My work combines a strong analytical background with practical skills in **Python, Machine Learning, Deep Learning, Data visualization, and GenAI applications**.
 
