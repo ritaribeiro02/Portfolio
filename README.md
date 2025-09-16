@@ -38,9 +38,8 @@ This portfolio will feature selected practical projects developed during hands-o
 
 ## Let’s Connect
 
-I’m actively seeking opportunities to apply my skills in **strategy, data analytics, and operations** within tech-enabled, purpose-driven teams.
+I’m actively seeking opportunities to apply my skills in **strategy, data and business analytics, and operations** within tech-enabled, purpose-driven teams.
 
 - [LinkedIn](https://www.linkedin.com/in/ana-rita-ribeiro-9b81a9164)
 - rita.ribeiro_02@hotmail.com
 
-If you're passionate about data, technology, and solving meaningful problems — you're in the right place. Let’s build something impactful together!
